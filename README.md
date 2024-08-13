@@ -11,7 +11,7 @@
 </div>
 
 ## 🌐 Website
-Visit the [QR code component](https://age-calculator-app-two-blush.vercel.app/) to explore the live site.
+Visit the [QR code component](https://qr-code-component-indol-kappa.vercel.app/) to explore the live site.
 
 Visit the [Front-end Mentor](https://www.frontendmentor.io/) to explore the live site.
 
